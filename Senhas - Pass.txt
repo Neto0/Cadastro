@@ -1,0 +1,9 @@
+Innitial Password
+
+Login: neto
+password: 201603
+
+
+Password for enter codes and plans, clik login.
+
+Password: 1234
